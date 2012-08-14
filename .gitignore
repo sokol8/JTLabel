@@ -1,0 +1,16 @@
+# Xcode
+build/*
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+xcuserdata
+*.xcuserdata
+profile
+*.moved-aside
+*.perspective
+*.pyc
+*~.nib/
+.DS_Store
+.dropbox
